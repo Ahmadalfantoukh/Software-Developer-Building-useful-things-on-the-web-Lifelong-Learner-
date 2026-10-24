@@ -1,27 +1,27 @@
-<h1 align="center">هلا، أنا أحمد الفنتوخ 👋</h1>
-<h3 align="center">مختبر شغوف بالتقنية وبناء المشاريع المفيدة</h3>
+# Hi, I'm Ahmad AlFantoukh 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmadalfantoukh&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadalfantoukh" />
-</p>
+**Software Quality Assurance Engineer** based in Riyadh, Saudi Arabia, with a background in Computer Science & Information Systems and an MBA in progress.
 
-- 🔭 أعمل حالياً على تطوير مهاراتي ومشاريعي
-- 🌱 أتعلم المزيد كل يوم
-- 👨‍💻 كل مشاريعي موجودة هنا على GitHub
-- 📫 تواصل معي: ahmadalfantokh@gmail.com
-- ⚡ هوايتي: بناء أشياء مفيدة
+## 🔭 What I Do
+- Analyze requirements and design test cases and test scenarios
+- Execute functional and regression testing to ensure system quality and stability
+- API analyze requirements and testing 
+- Track and document defects in collaboration with development teams
+- Contribute to continuous improvement of testing processes and best practices
 
-### 🛠️ لغات وأدوات:
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode" />
-</p>
+## 🧰 Experience Highlights
+- **Saudi Awwal Bank (SAB)**: Software QA Engineer (2026 – Present)
+- **Holool Aloula (NCBS)**: IT Project Coordinator, Oracle HCM / ERP implementation (2024)
 
-### 📊 إحصائياتي:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadalfantoukh&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadalfantoukh&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+## 🎓 Education
+- MBA, Universiti Teknologi MARA (UiTM), 2025 – 2027
+- B.Sc. Computer Science – Information Systems, Imam Mohammad Ibn Saud Islamic University
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadalfantoukh&theme=tokyonight" alt="streak" />
-</p>
+## 📜 Certifications
+PMP® · ITIL® 4 Foundation · ISTQB® CTFL 4.0 · CompTIA Security+ · CompTIA CySA+ · CompTIA CSAP · CRISC™ · Cisco CCNA · Oracle Certified Foundation Associate
+
+## 🌐 Languages
+Arabic · English
+
+## 📫 Connect
+[LinkedIn](www.linkedin.com/in/ahmad-alfantoukh)
