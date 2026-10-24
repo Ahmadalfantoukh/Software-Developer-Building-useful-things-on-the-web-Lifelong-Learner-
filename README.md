@@ -1,5 +1,5 @@
 <h1 align="center">هلا، أنا أحمد الفنتوخ 👋</h1>
-<h3 align="center">مطور شغوف بالتقنية وبناء المشاريع المفيدة</h3>
+<h3 align="center">مختبر شغوف بالتقنية وبناء المشاريع المفيدة</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmadalfantoukh&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadalfantoukh" />
@@ -8,7 +8,7 @@
 - 🔭 أعمل حالياً على تطوير مهاراتي ومشاريعي
 - 🌱 أتعلم المزيد كل يوم
 - 👨‍💻 كل مشاريعي موجودة هنا على GitHub
-- 📫 تواصل معي: **ضع ايميلك هنا**
+- 📫 تواصل معي: ahmadalfantokh@gmail.com
 - ⚡ هوايتي: بناء أشياء مفيدة
 
 ### 🛠️ لغات وأدوات:
